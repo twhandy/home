@@ -7,6 +7,7 @@ Cyber Security Student
 
 <h2>Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/timothy-handy-a9b13a31a/
+[youtube]: https://www.youtube.com/@handyitportfolio
 
 <!--
 **twhandy/twhandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
