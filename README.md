@@ -6,9 +6,8 @@ Cyber Security Student
 <h2>Linux Projects:</h2>
 
 <h2>Connect with me:</h2>
-[linkedin]: https://www.linkedin.com/in/timothy-handy-a9b13a31a/
-[youtube]: https://www.youtube.com/@handyitportfolio
-
+[LinkedIn]<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="timothy-handy-a9b13a31a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/timothy-handy-a9b13a31a?trk=profile-badge">Timothy Handy</a></div>
+              
 <!--
 **twhandy/twhandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
