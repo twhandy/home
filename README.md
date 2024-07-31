@@ -5,10 +5,10 @@ Cyber Security Student
 
 <h2>Linux Projects:</h2>
 <p>
-<a class="badge-base__link LI-simple-link" href="https://youtu.be/FbIMvdPEEoo">Installing Ubuntu Linux as a virtual machine on OracleVM VirtualBox</a>
+<a class="badge-base__link LI-simple-link" href="https://youtu.be/FbIMvdPEEoo">Installing Ubuntu Linux as a virtual machine on Oracle VM VirtualBox</a>
 </p>
 <p>
-<a class="badge-base__link LI-simple-link" href="https://youtu.be/6S0tYo5BB70">Installing Kali Linux as a virtual machine on OracleVM VirtualBox</a>
+<a class="badge-base__link LI-simple-link" href="https://youtu.be/6S0tYo5BB70">Installing Kali Linux as a virtual machine on Oracle VM VirtualBox</a>
 </p>
 
 <h2>Connect with me:</h2>
