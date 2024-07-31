@@ -4,9 +4,11 @@ Cyber Security Student
 <h2>Microsoft Projects:</h2>
 
 <h2>Linux Projects:</h2>
+<h4>Ubuntu</h4>
 <p>
 <a class="badge-base__link LI-simple-link" href="https://youtu.be/FbIMvdPEEoo">Installing Ubuntu Linux as a virtual machine on Oracle VM VirtualBox</a>
 </p>
+<h4>Kali</h4>
 <p>
 <a class="badge-base__link LI-simple-link" href="https://youtu.be/6S0tYo5BB70">Installing Kali Linux as a virtual machine on Oracle VM VirtualBox</a>
 </p>
