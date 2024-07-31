@@ -4,6 +4,12 @@ Cyber Security Student
 <h2>Microsoft Projects:</h2>
 
 <h2>Linux Projects:</h2>
+<p>
+<a class="badge-base__link LI-simple-link" href="https://youtu.be/FbIMvdPEEoo">Installing Ubuntu Linux as a virtual machine on OracleVM VirtualBox</a>
+</p>
+<p>
+<a class="badge-base__link LI-simple-link" href="https://youtu.be/6S0tYo5BB70">Installing Kali Linux as a virtual machine on OracleVM VirtualBox</a>
+</p>
 
 <h2>Connect with me:</h2>
 [LinkedIn]<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="timothy-handy-a9b13a31a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/timothy-handy-a9b13a31a?trk=profile-badge">Timothy Handy</a></div>
