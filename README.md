@@ -3,7 +3,7 @@ Cyber Security Student
 
 <h2>Microsoft Projects:</h2>
 <p>
-<a class="badge-base__link LI-simple-link" href="https://youtu.be/csIxb0s2sSA">Installing GUI Windows Server 2022 as a virtual machine on Oracle VM VirtualBox</a>
+<a class="badge-base__link LI-simple-link" href="https://github.com/twhandy/windows">View my Microsoft Windows Projects here</a>
 </p>
 
 <h2>Linux Projects:</h2>
